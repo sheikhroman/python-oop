@@ -1,0 +1,13 @@
+fruits=["apple","malta","komola","angur","kola"]
+# print(fruits.count("apple"))
+# print(fruits.index('kola'))
+# fruits.reverse()
+# print(fruits)
+# fruits.append('malta')
+# print(fruits)
+# fruits.sort()
+# print(fruits)
+# fruits.pop()
+# print(fruits)
+# fruits.remove("malta")
+# print(fruits)
